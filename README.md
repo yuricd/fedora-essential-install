@@ -35,6 +35,5 @@ Current installing the following softwares/packages:
  In order to test whether the install process is successful, run `test.sh`. This script will run a docker container with the latest Fedora version and execute the `install.sh`.
 
  ### TODO
- - Fix downloaded RPMs
  - Store the status of each installation to log at the end. 
  - Handle 32 bits version.
